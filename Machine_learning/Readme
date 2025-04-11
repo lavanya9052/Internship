@@ -87,9 +87,9 @@ This section should provide a concise summary of the key findings. Include speci
 
 For example:
 
-"The Exploratory Data Analysis revealed strong correlations between scores in different subjects, indicating that students who perform well in one subject tend to perform well in others."
-"Both the Logistic Regression and Random Forest models achieved high accuracy in predicting student pass/fail status. The Random Forest model demonstrated slightly better performance, with an accuracy of [Accuracy Value] and an F1-score of [F1-score Value], compared to the Logistic Regression model's accuracy of [Accuracy Value] and F1-score of [F1-score Value]."
-"The confusion matrices showed that both models had some difficulty in accurately predicting students who failed, as indicated by [specific numbers from the confusion matrices]."
+- The Exploratory Data Analysis revealed strong correlations between scores in different subjects, indicating that students who perform well in one subject tend to perform well in others.
+- Both the Logistic Regression and Random Forest models achieved high accuracy in predicting student pass/fail status. The Random Forest model demonstrated slightly better performance, with an accuracy of [Accuracy Value] and an F1-score of [F1-score Value], compared to the Logistic Regression model's accuracy of [Accuracy Value] and F1-score of [F1-score Value].
+- The confusion matrices showed that both models had some difficulty in accurately predicting students who failed, as indicated by [specific numbers from the confusion matrices].
 
 ## 7. Conclusion
 This analysis demonstrates the feasibility of predicting student pass/fail status using machine learning techniques. The Random Forest model exhibited strong predictive capabilities. The insights gained from the EDA can be valuable for educators in identifying students who may need additional support.
