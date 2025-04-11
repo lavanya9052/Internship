@@ -18,11 +18,11 @@ This project analyzes the Online Retail Dataset (UCI) using Python to perform da
 
 ## 3.1. Core Files
 
-   * `online_retail_analysis.ipynb` (or similar name): This Jupyter Notebook contains the Python code for the data analysis.
+- online_retail_analysis.ipynb` (or similar name): This Jupyter Notebook contains the Python code for the data analysis.
 
-    * `Online Retail.xlsx`: The dataset file used in the analysis.
+- Online Retail.xlsx`: The dataset file used in the analysis.
 
-    * `README.md`: This file, providing an overview of the project, methodology, and results.
+- README.md`: This file, providing an overview of the project, methodology, and results.
 
 
 ## 4. Libraries and Dependencies
@@ -40,7 +40,7 @@ The following Python libraries are required to execute the code:
 
 ## 5. Methodology
 
-##5.1. Data Loading
+## 5.1. Data Loading
 
 The dataset was loaded using `pd.read_excel()` from the specified file path (`/content/Online Retail.xlsx`). **Note:** This file path may need to be adjusted.
 
@@ -115,15 +115,15 @@ _This section should contain a summary of the key findings from the analysis._
 
 For example:
 
-* "The pivot table provides a clear breakdown of monthly sales performance for each country."
+* The pivot table provides a clear breakdown of monthly sales performance for each country.
 
-* "The average order value was calculated to be \[Average Order Value]."
+* The average order value was calculated to be \[Average Order Value].
 
-* "The percentage contribution analysis revealed that \[Top Country] contributed the most to total sales, followed by \[Second Top Country] and \[Third Top Country]."
+* The percentage contribution analysis revealed that \[Top Country] contributed the most to total sales, followed by \[Second Top Country] and \[Third Top Country].
 
-* "The top 5 countries by revenue were highlighted, allowing for easy identification of key markets."
+* The top 5 countries by revenue were highlighted, allowing for easy identification of key markets.
 
-* "The monthly revenue trend chart shows \[Describe the trend, e.g., a general upward trend with seasonal fluctuations]."
+* The monthly revenue trend chart shows \[Describe the trend, e.g., a general upward trend with seasonal fluctuations].
 
 ## 7. Conclusion
 
